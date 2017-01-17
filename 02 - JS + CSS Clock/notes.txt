@@ -1,0 +1,22 @@
+Thoughts
+- switching from coffeescript is annoying, e.g. explicit returns and semi-colons
+
+Neat Tricks
+- Chrome Dev Console CSS Editor: with cursor on a number value, typing shift+up/down will increase/decresase the number by 10 instead of 1
+
+CSS
+- transform
+  * rotate
+
+- transform-origin
+
+- transition
+
+- transition-timing-function
+  *
+
+JavaScript
+- setInterval
+- Date
+- Element style attributes
+  * transform
