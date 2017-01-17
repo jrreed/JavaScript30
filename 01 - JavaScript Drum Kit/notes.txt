@@ -1,0 +1,21 @@
+Cloned the JavaScript30 repository
+Used Sublime Text instead of Rubymine
+ - Kind of a pain to set up
+ - Would like to have the same key bindings and color theme
+
+
+Featues used:
+ - 'addEventListener'
+ - console
+ - 'querySelector'
+ - ES6 Template Strings `foo${value}`
+ - 'const' variables
+ - Audio elements
+   * currentTime
+   * play
+ - Element Attributes
+   * classList (add/remove/toggle)
+ - ES6 forEach
+ - ES6 '=>' arrow operator
+ -'transitionend' event
+ - ES6 === and !==
