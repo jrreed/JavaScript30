@@ -1,0 +1,19 @@
+
+HTML features
+  - input type='range'
+  - input type='color'
+
+JavaScript features
+  - NodeList
+  - element 'dataset' attribute
+
+CSS features
+  - filters (blur)
+
+CSS Variables
+  - declared on an element
+    * ':root' being the highest
+  - each variable declared by prefixing with '--', e.g. '--foo'
+  - using variable call 'var(--foo)'
+  - values have scope and can be overridden
+
