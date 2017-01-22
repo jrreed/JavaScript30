@@ -1,0 +1,5 @@
+Neat stuff
+  - console.table
+
+Javscript functions:
+  - Array filter
