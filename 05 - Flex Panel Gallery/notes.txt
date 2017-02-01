@@ -1,0 +1,10 @@
+Sublime Text:
+ * NO AUTOSAVE!!!!
+
+CSS:
+ * display: flex
+ * flex-direction: column;
+ * justify-content: center
+   - difference between this and text-align center? Justification?
+ * align-items: center
+   - no idea what this is
